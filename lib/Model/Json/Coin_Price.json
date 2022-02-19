@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Bitcoin",
+        "price" : "52.000 /$"
+    },
+    {
+        "name" : "Etherum",
+        "price" : "3.900 /$"
+    },
+    {
+        "name" : "Trx",
+        "price" : "0.1126 /$"
+    },
+    {
+        "name" : "Doge Coin",
+        "price" : "0.2540 /$"
+    }
+]
